@@ -1,4 +1,8 @@
-Documentation:
+# WhatsApp Message Automation
+
+Sends messages to desired group of people at a programmed time
+
+API Documentation:
 https://pypi.org/project/pywhatkit/
 
 Recommend to use virtual enviornment:
@@ -8,7 +12,5 @@ Recommend to use virtual enviornment:
     . venv/bin/activate;
 
 To Deactivate:
-    deactivate
 
-TODO: 
-- Implement a dictionary with short version of name for each one
+    deactivate
